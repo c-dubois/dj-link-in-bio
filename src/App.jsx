@@ -252,7 +252,7 @@ export default function App() {
           <h1 style={{
             fontFamily: "'Churchward Roundsquare', 'Comfortaa', sans-serif",
             fontWeight: 100,
-            fontSize: "clamp(42px, 10vw, 64px)", lineHeight: 1.05,
+            fontSize: "clamp(52px, 12vw, 78px)", lineHeight: 1.05,
             textTransform: "lowercase", letterSpacing: "6px", color: "#f0ebe3",
             animation: "heroReveal 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) both",
           }}>
