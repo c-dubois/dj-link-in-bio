@@ -2,7 +2,7 @@
 
 **🪩 Live Site → [camilledubois.vercel.app](https://camilledubois.vercel.app/)**
 
-Custom link-in-bio site for [camille du bois](https://instagram.com/camille.du.bois): a house, indie dance, disco music producer and DJ based in Washington DC.
+Custom link-in-bio site for [camille du bois](https://instagram.com/camille.du.bois): a house/disco/indie dance music producer & DJ based in Washington DC.
 
 Dark earthy aesthetic with animated particle field, waveform visualizer, and embedded mix player.
 
