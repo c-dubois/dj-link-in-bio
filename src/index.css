@@ -6,13 +6,22 @@
 
 /* Custom font — drop .woff2 or .ttf file in public/fonts/ */
 @font-face {
+  font-family: 'Churchward Design Bold';
+  src: url('/fonts/ChurchwardDesignBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Churchward Roundsquare */
+/* @font-face {
   font-family: 'Churchward Roundsquare';
   src: url('/fonts/ChurchwardRoundsquare.woff2') format('woff2'),
       url('/fonts/ChurchwardRoundsquare.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
-}
+} */
 
 /* ═══════════════════════════════════════════════════════════════
    RESET & BASE

@@ -250,7 +250,7 @@ export default function App() {
         {/* HERO */}
         <header style={{ textAlign: "center", marginBottom: (CONFIG.showTagline || CONFIG.showLocation) ? "28px" : "18px", paddingTop: "20px" }}>
           <h1 style={{
-            fontFamily: "'Churchward Roundsquare', 'Comfortaa', sans-serif",
+            fontFamily: "'Churchward Design Bold', 'Comfortaa', sans-serif",
             fontWeight: 100,
             fontSize: "clamp(56px, 14vw, 78px)", lineHeight: 1.05,
             textTransform: "lowercase", letterSpacing: "6px", color: "#f0ebe3",
